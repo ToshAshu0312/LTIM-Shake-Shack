@@ -179,9 +179,9 @@ Expert release manager creating audience-appropriate release notes from Jira iss
 ## Configuration
 
 **Atlassian MCP (Jira):**
-- Cloud ID: `097b8b1f-e276-465f-98dc-51e6cec1d3`
+- Cloud ID: `<YOUR_JIRA_CLOUD_ID>`
 - Project: `KAN`
-- Base URL: `https://ashutoshupadhyay2718.atlassian.net`
+- Base URL: `https://<your-instance>.atlassian.net`
 
 **GitHub MCP:**
 - Use `github-pull-request_issue_fetch` to fetch PR details by number

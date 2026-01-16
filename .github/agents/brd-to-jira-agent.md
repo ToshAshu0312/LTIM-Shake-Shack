@@ -47,7 +47,7 @@ Typical Epic grouping:
 For each Epic, create a Jira issue with:
 
 **Jira Configuration:**
-- Cloud ID: `097b8b1f-e276-465f-98dc-51e546cec1d3`
+- Cloud ID: `<YOUR_JIRA_CLOUD_ID>`
 - Project Key: `KAN`
 - Issue Type: `Epic` (ID: 10009)
 
@@ -234,7 +234,7 @@ Run BRD to Jira automation
 
 **Jira Project Settings:**
 - Project: KAN (Custom Jira dashboard 1)
-- Cloud ID: 097b8b1f-e276-465f-98dc-51e546cec1d3
+- Cloud ID: <YOUR_JIRA_CLOUD_ID>
 - Epic Issue Type ID: 10009
 - Story Issue Type ID: 10013
 

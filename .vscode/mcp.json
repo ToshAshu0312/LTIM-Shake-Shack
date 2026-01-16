@@ -6,12 +6,6 @@
 			"gallery": "https://api.mcp.github.com",
 			"version": "1.0.3"
 		},
-		"atlassian/atlassian-mcp-server": {
-			"type": "http",
-			"url": "https://mcp.atlassian.com/v1/sse",
-			"gallery": "https://api.mcp.github.com",
-			"version": "1.0.0"
-		},
 		"io.github.hashicorp/terraform-mcp-server": {
 			"type": "stdio",
 			"command": "docker",
@@ -47,6 +41,12 @@
 			},
 			"gallery": "https://api.mcp.github.com",
 			"version": "0.3.3"
+		},
+		"atlassian/atlassian-mcp-server": {
+			"type": "http",
+			"url": "https://mcp.atlassian.com/v1/sse",
+			"gallery": "https://api.mcp.github.com",
+			"version": "1.0.0"
 		}
 	},
 	"inputs": [
